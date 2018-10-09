@@ -1,0 +1,10 @@
+{
+  "user": {
+    "userId": 1,
+    "firstname": "Joe",
+    "lastname": "Betsalot",
+    "email": "joe@betsalot.com",
+    "phone": "99999999999",
+    "verified": "true"
+  }
+}

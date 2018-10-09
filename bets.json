@@ -1,0 +1,84 @@
+{
+  "bets": [
+      {
+        "userId" : "1",
+        "betId": "1",
+        "amount": "$200",
+        "sport": "Football",
+        "odds": "9:1",
+        "Game": "Greenbay Packers vs. Chicago Bears",
+        "bet": "Chicago Bears",
+        "date": "10/22/2018"
+      },
+      {
+        "userId" : "1",
+        "betId": "2",
+        "amount": "$200",
+        "sport": "Football",
+        "odds": "12:1",
+        "Game": "Houstin Texans vs. Seattle Seahawks",
+        "bet": "Houstin Texans",
+        "date": "10/28/2018"
+      },
+      {
+        "userId" : "1",
+        "betId": "3",
+        "amount": "$250",
+        "sport": "Baseball",
+        "odds": "10:1",
+        "Game": "New York Yankees vs. Boston Red Sox",
+        "bet": "New York Yankees",
+        "date": "10/23/1018"
+      },
+      {
+        "userId" : "1",
+        "betId": "3",
+        "amount": "$100",
+        "sport": "Baseball",
+        "odds": "8:1",
+        "Game": "New York Yankees vs. Chicago White Sox",
+        "bet": "New York Yankees",
+        "date": "11/14/1018"
+      },
+      {
+        "userId" : "1",
+        "betId": "4",
+        "amount": "$10",
+        "sport": "Horse Racing",
+        "odds": "100:1",
+        "Game": "Kentucky Derby",
+        "bet": "Cuba",
+        "date": "5/16/2019"
+      },
+      {
+        "userId" : "2",
+        "betId": "4",
+        "amount": "$10",
+        "sport": "Horse Racing",
+        "odds": "100:1",
+        "Game": "Kentucky Derby",
+        "bet": "Cuba",
+        "date": "5/16/2019"
+      },
+      {
+        "userId" : "1",
+        "betId": "4",
+        "amount": "$20",
+        "sport": "Horse Racing",
+        "odds": "50:1",
+        "Game": "Kentucky Derby",
+        "bet": "Sputnick",
+        "date": "6/16/2019"
+      },
+      {
+        "userId" : "2",
+        "betId": "4",
+        "amount": "$20",
+        "sport": "Horse Racing",
+        "odds": "50:1",
+        "Game": "Kentucky Derby",
+        "bet": "Sputnick",
+        "date": "6/16/2019"
+      }
+  ]
+}

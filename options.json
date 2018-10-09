@@ -1,0 +1,50 @@
+{
+  "options": [
+      {
+        "betId": "1",
+        "sport": "Football",
+        "odds": [
+                  { "Greenbay" : "2:1" },
+                  { "Chicago Bears": "9:1" }
+                ],
+        "Game": "Greenbay Packers vs. Chicago Bears",
+        "date": "10/22/2018"
+      },
+      {
+        "betId": "2",
+        "sport": "Football",
+        "odds": [
+                  {"Houstin Texans" : "12:1"},
+                  {"Seattle Seahawks": "3:1"}
+                ],
+        "Game": "Houstin Texans vs. Seattle Seahawks",
+        "date": "10/28/2018"
+      },
+      {
+        "betId": "3",
+        "sport": "Baseball",
+        "odds": [
+                  {"New York Yankees" : "10:1"},
+                  {" Boston Red Sox": "2:1"}
+                ],
+        "Game": "New York Yankees vs. Boston Red Sox",
+        "date": "10/23/1018"
+      },
+      {
+        "userId" : "1",
+        "betId": "4",
+        "sport": "Horse Racing",
+        "odds": [
+                  {"Cuba" : "100:1"},
+                  {"Rainy Day": "10:1"},
+                  {"Spitfire": "9:1"},
+                  {"Tron": "17:1"},
+                  {"Simba": "90:1"},
+                  {"Seabiscuit": "3:1"},
+                  {"Sputnick": "50:1"}
+                ],
+        "Game": "Kentucky Derby",
+        "date": "5/16/2019"
+      }
+  ]
+}
